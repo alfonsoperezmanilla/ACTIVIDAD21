@@ -1,0 +1,178 @@
+#cabecera{
+	padding-top: 0.1px;
+	background-color: #A10000;
+	font-size: 16.2px;
+ 	font-family: Arial, Arial Narrow, Helvetica;
+ 	text-shadow: 2px 2px 4px #000000;
+}
+
+#logo{
+	float: left;
+  	width:200px;
+  	height:178px;
+}
+
+header nav{
+	background-color: #E70000;
+	margin-bottom: 10px;
+}
+
+header nav ul{
+	list-style: none;
+	overflow: hidden;
+}
+
+header nav ul li{
+	float: left;
+}
+
+header nav ul li a{
+	display: block;
+	padding: 20px;
+	color: #fff;
+	text-decoration: none;
+}
+
+header nav ul li a:hover{
+	background: #BB0000;
+}
+
+a:active{
+  color: #002987;
+  background-color: #FFF;
+}
+
+#imagen1{
+	width: 270px;
+	height: 270px;
+	float: left;
+	border: red 5px outset;
+}
+
+#img1{
+  border:5px;
+  width:270px;
+  height:270px;
+}
+
+#texto1{
+	background-color: #FF9A9A;
+	width: 254px;
+	height: 250px;
+	position: absolute;
+	top: 493px;
+	left: 25px;
+	border: red 5px inset;
+
+
+	padding-left: 5px;   
+	padding-top: 10px; 
+	padding-bottom: 120px;
+	padding-right: 9px;
+	margin-left: -16px;
+	
+	font-style: normal;
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+
+#texto1 p{
+	text-align: left;
+}
+
+#imagen2{
+	width: 305px;
+	height: 270px;
+	float: left;
+	margin-left: 25px;
+	font-style: normal;
+	margin-bottom: 15px;
+	margin-top: 10px;
+	border: red 5px inset;
+
+}
+
+#img2{
+  border:5px;
+  width:305px;
+  height:270px;
+}
+
+
+#textoP1{
+	background-color: #FF9A9A;
+	width: 290px;
+	height: 540px;
+	float: left;
+	padding-left: 15px;  
+	padding-right: 15px;  
+	padding-top: 10px; 
+	padding-bottom: 120px;
+	margin-left: 25px;
+	font-style: normal;
+	font-size: 12px;
+	margin-bottom: 10px;
+	border: red 5px inset;
+}
+
+#textoP2{
+	background-color: #FF9A9A;
+	width: 290px;
+	height: 540px;
+	float: left;
+	padding-left: 15px;  
+	padding-right: 15px;  
+	padding-top: 10px; 
+	padding-bottom: 120px;
+	margin-left: 25px;
+	font-style: normal;
+	font-size: 12px;
+	margin-bottom: 10px;
+	border: red 5px outset;
+
+}
+
+#texto2{
+	background-color: #FF9A9A;
+	width: 277px;
+	height: 240px;
+	float: left;
+	padding-left: 15px;  
+	padding-right: 15px;  
+	padding-top: 10px; 
+	padding-bottom: 120px;
+	margin-left: 25px;
+	font-style: normal;
+	font-size: 12px;
+	margin-bottom: 10px;
+	border: red 5px inset;
+
+}
+
+
+#piePagina{
+	background-color: #E70000;  
+	clear: both;  
+	margin-top: 30px;  
+	text-align: left; 
+	padding: 20px;  
+	border-top: 5px solid #9C0000; 
+	font-size: 15px;
+  	font-family: Arial, Arial Narrow, Helvetica;
+
+}
+
+.b1{
+  font-size: 15px;
+  font-family: Arial, Arial Narrow, Helvetica;
+}
+
+body{
+	background-color: #FF4242;
+}
+
+#face{
+	width:50px;
+  	height:50px;
+
+}
